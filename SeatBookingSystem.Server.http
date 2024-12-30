@@ -1,0 +1,6 @@
+@SeatBookingSystem.Server_HostAddress = http://localhost:5013
+
+GET {{SeatBookingSystem.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
